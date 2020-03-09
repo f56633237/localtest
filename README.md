@@ -6,3 +6,5 @@ feature-a add new line 1.
 feature-a add new line 2.
 
 feature add new line 3.
+
+feature add new line 4.
